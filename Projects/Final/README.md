@@ -1,0 +1,2 @@
+- put CamVid and Model directories and segnet.ipynb file together in single directory.
+- run segnet.ipynb file.

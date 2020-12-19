@@ -1,0 +1,1 @@
+- download segnet model weights from provided drive link : https://drive.google.com/file/d/1fz3GSGOC7jDiqR7lL0s8NWNUnFOPgmu4/view?usp=sharing

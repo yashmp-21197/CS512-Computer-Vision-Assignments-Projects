@@ -1,0 +1,1 @@
+- download CamVid dataset from provided drive link : https://drive.google.com/file/d/17a3xkCFshellQj7yMAz2XeQ1EbjTDAwn/view?usp=sharing
